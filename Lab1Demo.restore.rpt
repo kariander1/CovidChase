@@ -1,0 +1,144 @@
+Restore Archived Project report for Lab1Demo
+Sun Nov 01 20:27:56 2020
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Sun Nov 01 20:27:56 2020 ;
+; Revision Name                   ; Lab1Demo                              ;
+; Top-level Entity Name           ; MAIN_TOP                              ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/mayan/Downloads/CovidChase (1).qar' into the 'C:/Users/mayan/Downloads/CovidChase (1)_restored/' directory
+Info: Generated report 'Lab1Demo.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4818 megabytes
+    Info: Processing ended: Sun Nov 01 20:27:56 2020
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-------------------------------------------------------+
+; Files Restored                                        ;
++-------------------------------------------------------+
+; File Name                                             ;
++-------------------------------------------------------+
+; qar_info.json                                         ;
+; DE10_Standard_Audio.sdc                               ;
+; Lab1Demo.qpf                                          ;
+; Lab1Demo.qsf                                          ;
+; RTL/Background/BACKGROUND_TOP.bdf                     ;
+; RTL/Background/TILE_TOP.bdf                           ;
+; RTL/Background/backgroundTile_moveCollision.sv        ;
+; RTL/Background/background_mux.sv                      ;
+; RTL/Background/colorCodeToRGB.sv                      ;
+; RTL/Background/randomTiles.sv                         ;
+; RTL/Background/streetTiles.sv                         ;
+; RTL/Background/tile_FSM.sv                            ;
+; RTL/Bikers/BIKERS_TOP.sv                              ;
+; RTL/Bikers/BIKER_TOP.sv                               ;
+; RTL/Bikers/bikerBitMap.sv                             ;
+; RTL/Bikers/bikerDraw.sv                               ;
+; RTL/Bikers/biker_FSM.sv                               ;
+; RTL/Bikers/biker_moveCollision.sv                     ;
+; RTL/Bikers/bikers_mux.sv                              ;
+; RTL/GameControl/aux_timer.sv                          ;
+; RTL/GameControl/game_FSM.sv                           ;
+; RTL/GameControl/game_controller_all.sv                ;
+; RTL/GameControl/one_sec_counter.sv                    ;
+; RTL/GameControl/onetens_sec_counter.sv                ;
+; RTL/GameControl/random.sv                             ;
+; RTL/Generic/fallingObject_moveCollision.sv            ;
+; RTL/Generic/randomFallingObject_FSM.sv                ;
+; RTL/HUD/HUD_TOP.bdf                                   ;
+; RTL/HUD/HUD_mux.sv                                    ;
+; RTL/HUD/digitsToDigitVector.sv                        ;
+; RTL/HUD/heartBitMap.sv                                ;
+; RTL/HUD/hundredsToDigits.sv                           ;
+; RTL/MAIN_TOP.bdf                                      ;
+; RTL/MSS/SOUND_PLAYER.bdf                              ;
+; RTL/MSS/SinTable.sv                                   ;
+; RTL/MSS/TOP_MSS_DEMO.bdf                              ;
+; RTL/MSS/ToneDecoder.sv                                ;
+; RTL/MSS/addr_counter.sv                               ;
+; RTL/MSS/data_conversion.sv                            ;
+; RTL/MSS/prescaler.sv                                  ;
+; RTL/Powerup/POWERUP_TOP.bdf                           ;
+; RTL/Powerup/powerupBitMap.sv                          ;
+; RTL/Projectiles/PROJECTILES_TOP.sv                    ;
+; RTL/Projectiles/PROJECTILE_TOP.sv                     ;
+; RTL/Projectiles/projectileBitMap.sv                   ;
+; RTL/Projectiles/projectileDraw.sv                     ;
+; RTL/Projectiles/projectile_FSM.sv                     ;
+; RTL/Projectiles/projectile_moveCollision.sv           ;
+; RTL/Projectiles/projectiles_mux.sv                    ;
+; RTL/Trees/TREES_TOP.sv                                ;
+; RTL/Trees/TREE_TOP.sv                                 ;
+; RTL/Trees/treeBitMap.sv                               ;
+; RTL/Trees/treeDraw.sv                                 ;
+; RTL/Trees/trees_mux.sv                                ;
+; RTL/Truck/TRUCK_TOP.bdf                               ;
+; RTL/Truck/truckBitMap.sv                              ;
+; RTL/VGA/NumbersBitMap.sv                              ;
+; RTL/VGA/VGA_Controller.sv                             ;
+; RTL/VGA/back_ground_drawSquare.sv                     ;
+; RTL/VGA/objects_mux_all.sv                            ;
+; RTL/VGA/square_object.sv                              ;
+; RTL/audio_codec_controller/audio_codec_controller.qxp ;
+; assignment_defaults.qdf                               ;
+; constraints/DE10_Standard_Audio.sdc                   ;
+; constraints/pin.tcl                                   ;
+; output_files/Chain1.cdf                               ;
+; soundTensSeconds.bsf                                  ;
+; soundTensSeconds.qip                                  ;
+; soundTensSeconds.v                                    ;
+; soundTensSeconds_bb.v                                 ;
++-------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
